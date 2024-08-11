@@ -1,0 +1,11 @@
+/**
+  |============================
+  | include css partials with
+  | default @import url()
+  |============================
+*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 15px 15px;
+}
